@@ -1,0 +1,5 @@
+lamini
+pandas
+tqdm
+jsonlines
+python-dotenv
